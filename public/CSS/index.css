@@ -1,0 +1,17 @@
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    margin : 5;
+    color:black;
+}
+
+h1{
+    font-size: large;
+    margin: 25px;
+    color: red;
+}
+
+.btn{
+    margin : 50px;
+    color: red;
+}
